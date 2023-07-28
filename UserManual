@@ -4,3 +4,7 @@ To add songs to listen to, type name of song into data entry field, then click a
 To delete songs on the listening list, click the song and then click remove song. 
 To exit application click the exit button. 
 To add songs to a database with more information, clicj Add A Song. Click go back button to go to main screen. 
+
+DataValidation:
+Since songs can be any combination of letters and numbers, it only checks to see if data entry
+is blank.
